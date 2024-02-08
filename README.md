@@ -22,6 +22,7 @@ https://huggingface.co/ashawkey/LGM
 
 ### 🖼 Output
 
+https://github.com/camenduru/LGM-jupyter/assets/54370274/1928e9e5-8816-448c-aafe-4b3522b2f953
 
 ### 🏢 Sponsor
 https://replicate.com
