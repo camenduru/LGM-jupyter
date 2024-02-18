@@ -8,6 +8,7 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LGM-jupyter/blob/main/LGM_gradio_jupyter.ipynb) | LGM_gradio_jupyter
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LGM-jupyter/blob/main/LGM_jupyter.ipynb) | LGM_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LGM-jupyter/blob/main/LGM_ply_to_glb_jupyter.ipynb) | LGM_ply_to_glb_jupyter
 
 ### 🧬 Code
 https://github.com/3DTopia/LGM
